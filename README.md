@@ -6,8 +6,13 @@ by [Arip Asadulaev*](https://scholar.google.com/citations?user=wcdrgdYAAAAJ&hl=e
 ## Structure
 The implementation is GPU-based with the multi-GPU support. Tested with `torch== 1.9.0` and 1-4 Tesla V100.
 
-The repository contains reproducible PyTorch source code for computing optimal transport maps and plans for general transport costs in high dimensions with neural networks. 
-Examples are provided for toy problems (```gaussian_toy.ipynb, twomoons_toy.ipynb```) and for the class-guided (```dataset_transfer.ipynb, dataset_transfer_no_z.ipynb```), pair-guided image-to-image translation task (```paired_transport.ipynb```) and more. 
+The repository contains reproducible PyTorch source code for computing optimal transport maps and plans for general transport costs in high dimensions using neural networks. 
+Examples are provided in self-explanatory Jupyter notebooks (`notebooks/`):
+
+- Toy problems with class-guided cost functional (```gaussian_toy.ipynb, twomoons_toy.ipynb```);
+- Biology data Batch-effect problem solving with class-guided cost functional (```batch_effect.ipynb```);
+- Image-to-image translation with class-guided cost functional (```dataset_transfer.ipynb, dataset_transfer_no_z.ipynb```);
+- Image-to-image translation with pair-guided cost functional (```paired_transport.ipynb```). 
 
 Pre-trained models are available in [Google Drive](https://drive.google.com/drive/folders/1ZK3t4fxJt5WjNYAuAa60NMTz1cp5IUgM?usp=share_link).
 
