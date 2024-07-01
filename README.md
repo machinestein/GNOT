@@ -9,7 +9,7 @@ The implementation is GPU-based with the multi-GPU support. Tested with `torch==
 The repository contains reproducible PyTorch source code for computing optimal transport maps and plans for general transport costs in high dimensions with neural networks. 
 Examples are provided for toy problems (```gaussian_toy.ipynb, twomoons_toy.ipynb```) and for the class-guided (```dataset_transfer.ipynb, dataset_transfer_no_z.ipynb```), pair-guided image-to-image translation task (```paired_transport.ipynb```) and more. 
 
-Pre-trained models are available in (https://drive.google.com/drive/folders/1ZK3t4fxJt5WjNYAuAa60NMTz1cp5IUgM?usp=share_link) 
+Pre-trained models are available in [Google Drive](https://drive.google.com/drive/folders/1ZK3t4fxJt5WjNYAuAa60NMTz1cp5IUgM?usp=share_link).
 
 ## Citation
 ```
