@@ -1,5 +1,5 @@
 # General Cost Neural Optimal Transport (GNOT)
-Official Python implementation of **Neural Optimal Transport with General Cost Functionals** (ICLR 2024)(https://iclr.cc)
+Official Python implementation of **Neural Optimal Transport with General Cost Functionals** ([ICLR 2024](https://iclr.cc) conference paper)
 by [Arip Asadulaev*](https://scholar.google.com/citations?user=wcdrgdYAAAAJ&hl=en), [Alexander Korotin*](https://scholar.google.ru/citations?user=1rIIvjAAAAAJ&hl=en), [Vage Egiazarian](https://scholar.google.com/citations?user=Bktg6JEAAAAJ&hl=en), [Petr Mokrov](https://scholar.google.com/citations?hl=en&user=CRsi4IkAAAAJ) and [Evgeny Burnaev](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=ru).
 
 <p  align="center">
